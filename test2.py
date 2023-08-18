@@ -11,7 +11,7 @@ import threading
 
 # Initialize Tkinter root window
 root = tk.Tk()
-root.title("Attendance System")
+root.title(" Sunstar Attendance System")
 
 video_capture = cv2.VideoCapture(0)
 
